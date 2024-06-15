@@ -7,3 +7,4 @@
 /_______  / ____/____  > |__|  \___  >__|_|  /         |___|___|  /__|  \____/           \______  /__|  (____  /___  /___  /\___  >__|   
         \/\/         \/            \/      \/                   \/                              \/           \/    \/    \/     \/       
 A simple application that retrieves information from the computer and a webhook sends it in a nice embed
+![image](https://github.com/Snexto-Doxxer/System-Info-Grabber/assets/172537597/36d1ba8d-b0f6-4367-833d-c8e0d4c01f0f)
